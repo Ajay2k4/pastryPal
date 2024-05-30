@@ -1,4 +1,4 @@
-# pastryPal
+# PastryPal
 
 # Overview
 PastryPal is a project that combines UI/UX design with artificial intelligence to create an intuitive and smart e-commerce platform for pastry lovers. The aim of this project is to provide users with a seamless and personalized shopping experience.
